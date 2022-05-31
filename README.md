@@ -3,3 +3,5 @@ There will use the OpenAI Gym framework and Tensorflow Agents to create a deep n
     [RubiksCubeGym](https://github.com/DoubleGremlin181/RubiksCubeGym)
 
 Author: Hector Javier Rojas Silva
+
+Repository: [GitHub Taller 02 Rubik](https://github.com/javierrojas6/dl-taller02-rubik)
